@@ -22,12 +22,6 @@ C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Fina
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets\msbuild.Finance-Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets\msbuild.Finance-Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Finance-Api.props
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Finance-Api.props
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Finance-Api.props
-C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\Finance-.FB0BD926.Up2Date
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\Finance-Api.dll
@@ -137,3 +131,8 @@ C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Fina
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Valentino Ricca\Documents\Personal\Finance-tracker\Finance-app-api\Finance-Api\obj\Debug\net8.0\staticwebassets.build.json.cache
