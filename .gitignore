@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Finance-Api/bin/Debug/net9.0
+/Finance-Api/obj/Debug/net9.0
