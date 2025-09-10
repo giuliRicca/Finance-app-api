@@ -83,7 +83,7 @@ namespace Finance_Api.Infrastructure.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Trasacitons");
+                    b.ToTable("Transactions");
                 });
 
             modelBuilder.Entity("Finance_Api.Core.Entities.User", b =>
@@ -94,17 +94,22 @@ namespace Finance_Api.Infrastructure.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("timestamp with time zone");
+
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(320)
+                        .HasColumnType("character varying(320)");
 
-                    b.Property<string>("PasswordHash")
+                    b.Property<string>("HashPassword")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("UserName")
+                    b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(200)
+                        .HasColumnType("character varying(200)");
 
                     b.HasKey("Id");
 
